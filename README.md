@@ -22,5 +22,5 @@ To run this notebook:
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
 
-I have been using kaggle kernels for this project. 
+I have been using kaggle kernels for this project. <br>
 Here's my notebook : https://www.kaggle.com/rishabhgoelsbu/wine-review
