@@ -1,5 +1,5 @@
 # kaggle-Predict-Wine-Goodness-from-Review
-Implementing ridge regression from scratch and using it to predict Wine Goodness review
+Implementing ridge regression with LOOCV from scratch and using it to predict Wine Goodness review
 
 To know more about the competition please follow the link: 
 https://www.kaggle.com/c/hw2-predict-wine-goodness-from-review/overview
