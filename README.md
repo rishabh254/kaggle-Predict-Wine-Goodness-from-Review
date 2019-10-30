@@ -2,7 +2,7 @@
 Implementing ridge regression with LOOCV from scratch and using it to predict Wine Goodness review
 
 To know more about the competition please follow the link: 
-https://www.kaggle.com/c/hw2-predict-wine-goodness-from-review/overview
+https://www.kaggle.com/c/cse512hw3
 
 # Install:
 To run this notebook:
@@ -23,4 +23,4 @@ To run this notebook:
 * [Matplotlib](http://matplotlib.org/)
 
 I have been using kaggle kernels for this project. <br>
-Here's my notebook : https://www.kaggle.com/rishabhgoelsbu/wine-review
+Here's my notebook : https://www.kaggle.com/rishabhgoelsbu/crowd-image-classifier-documented
